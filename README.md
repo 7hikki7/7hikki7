@@ -1,4 +1,16 @@
 # Henrique Medeiros Sabino 
+---
+
+### informações pessoais
+- Email: rique.medeiros3@gmail.com
+- Fone: (14) 99146-5253
+- Nacionalidade: Brasileiro 
+- Idade: 20 anos 
+- Gênero: Masculino
+- Estado civil: Solteiro
+- End: São Luiz, 1323
+
+---
 
 ## Objetivo
 
