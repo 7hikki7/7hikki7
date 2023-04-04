@@ -22,3 +22,23 @@ contínua, visando sempre o crescimento mútuo, meu e da empresa.
 ## Qualificações e Cursos complementares
 
 Inglês intermediário; Office básico; Python básico
+
+
+
+## Experiências
+
+- CARGO       Assistente de Vendas Jr.
+- EMPRESA     Magazine Luiza
+- PERÍODO     2019 ->> 2021
+- FUNÇÕES     Atendimento do cliente no pós-venda, venda de seguros e garantias, 
+              venda de planos telefônicos, venda de cartão da loja, organização do estoque, 
+              recebimento e baixa do abastecimento da loja, contagem de itens.
+
+
+- CARGO       Vendedor especialista
+- EMPRESA     Americanas
+- PERÍODO     2022 ->> 2023
+- FUNÇÕES.    Venda de seguros e garantias, venda de aparelhos eletrônicos,
+              atendimento ao público, venda de cartão da loja, venda de planos telefônicos,
+              organização de vitrine, atualização de preços.
+
