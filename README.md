@@ -27,7 +27,7 @@ Inglês intermediário; Office básico; Python básico
 
 ## Experiências
 
-- CARGO            Assistente de Vendas Jr.
+- CARGO            Assistente de Vendas
 - EMPRESA          Magazine Luiza
 - PERÍODO          2019 ->> 2021
 - FUNÇÕES          Atendimento do cliente no pós-venda, venda de seguros e garantias, 
